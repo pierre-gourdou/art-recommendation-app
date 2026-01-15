@@ -12,7 +12,14 @@ const nextConfig: NextConfig = {
   /* config options here */
   reactCompiler: true,  
   images: {
-    domains: ['artwork-portfolio-project.s3.eu-north-1.amazonaws.com'],
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'artwork-portfolio-project.s3.eu-north-1.amazonaws.com',
+        port: '',
+        pathname: '/**',
+      },
+    ],
   },
 };
 
