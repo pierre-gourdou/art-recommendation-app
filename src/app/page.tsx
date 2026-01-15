@@ -120,7 +120,7 @@ export default function Home() {
           </svg>
         </a>
         <a
-          href="www.linkedin.com/in/pierre-gourdou"
+          href="https://www.linkedin.com/in/pierre-gourdou/"
           target="_blank"
           rel="noopener noreferrer"
           className="w-10 h-10 bg-white rounded-full shadow-lg flex items-center justify-center hover:scale-110 transition-transform"
