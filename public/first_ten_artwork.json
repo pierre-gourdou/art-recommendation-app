@@ -1,0 +1,82 @@
+[
+  {
+    "description": "study-of-the-head-of-abraham-grapheus-1621",
+    "artist": "jacob jordaens",
+    "image_url": "s3://artwork-portfolio-project/cfe5d09827185a2f.jpg",
+    "genre": "['Baroque']",
+    "vector_index": 7270,
+    "id": "cfe5d09827185a2f"
+  },
+  {
+    "description": "concert-des-ambassadeurs-champs-lys-es-1900",
+    "artist": "jules cheret",
+    "image_url": "s3://artwork-portfolio-project/af179569f01a984d.jpg",
+    "genre": "['Art Nouveau Modern']",
+    "vector_index": 3726,
+    "id": "af179569f01a984d"
+  },
+  {
+    "description": "safad-match-box",
+    "artist": "jean david",
+    "image_url": "s3://artwork-portfolio-project/b55583ca4e3e2971.jpg",
+    "genre": "['Cubism']",
+    "vector_index": 11010,
+    "id": "b55583ca4e3e2971"
+  },
+  {
+    "description": "stamp-design-empress-zita-not-accepted-1917",
+    "artist": "koloman moser",
+    "image_url": "s3://artwork-portfolio-project/adf09ac3996c6331.jpg",
+    "genre": "['Art Nouveau Modern']",
+    "vector_index": 13085,
+    "id": "adf09ac3996c6331"
+  },
+  {
+    "description": "poster-for-prince-richard-metternich-1899",
+    "artist": "koloman moser",
+    "image_url": "s3://artwork-portfolio-project/c1f1e633391c9c66.jpg",
+    "genre": "['Art Nouveau Modern']",
+    "vector_index": 3872,
+    "id": "c1f1e633391c9c66"
+  },
+  {
+    "description": "monochuromes",
+    "artist": "aubrey beardsley",
+    "image_url": "s3://artwork-portfolio-project/84d12e7bab4e331a.jpg",
+    "genre": "['Art Nouveau Modern']",
+    "vector_index": 2415,
+    "id": "84d12e7bab4e331a"
+  },
+  {
+    "description": "cover-for-the-collection-of-russian-folk-tales-1900(1)",
+    "artist": "ivan bilibin",
+    "image_url": "s3://artwork-portfolio-project/dfd23d848ae08d35.jpg",
+    "genre": "['Art Nouveau Modern']",
+    "vector_index": 3441,
+    "id": "dfd23d848ae08d35"
+  },
+  {
+    "description": "lane-kirkland",
+    "artist": "richard whitney",
+    "image_url": "s3://artwork-portfolio-project/d3992e642416f3e5.jpg",
+    "genre": "['Contemporary Realism']",
+    "vector_index": 14705,
+    "id": "d3992e642416f3e5"
+  },
+  {
+    "description": "munich-olympic-games-poster-1972",
+    "artist": "piero dorazio",
+    "image_url": "s3://artwork-portfolio-project/ca6f155f72608716.jpg",
+    "genre": "['Color Field Painting']",
+    "vector_index": 9753,
+    "id": "ca6f155f72608716"
+  },
+  {
+    "description": "at-the-relton-arms",
+    "artist": "aubrey beardsley",
+    "image_url": "s3://artwork-portfolio-project/c5b5720d324f5d23.jpg",
+    "genre": "['Art Nouveau Modern']",
+    "vector_index": 2342,
+    "id": "c5b5720d324f5d23"
+  }
+]
